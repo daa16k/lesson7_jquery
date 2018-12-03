@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 3, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Devonte Aird)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This program introduces jQuery which makes javascript simpler and shorter)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://daa16k.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this assignment we learned about jQuery which is a JavaScript library.)
+2. (We also learned that jQuery has predefined functions and properties that minimize JavaScript code.)
+3. (We also learned about the different ways to add behavior using jQuery like using "#" for refrencing a node by id)
 
